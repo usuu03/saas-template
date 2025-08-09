@@ -113,6 +113,3 @@ MIT License – see [LICENSE](LICENSE) for details.
 
 > **MVP Phase** – Building core multi-tenancy, authentication, and billing.
 > Future features: Feature-flag enforcement per plan, email notifications, admin dashboard.
-
-```
-
