@@ -2,7 +2,7 @@
 
 A production-ready, script-first backend template for building **multi-tenant SaaS applications** with authentication, role-based access control (RBAC), subscription billing, and cloud-ready DevOps.
 
-This project is designed with **CQRS**, **Clean Architecture**, and **SQL-first database migrations** — making it easy to extend into a real SaaS product without redoing the core infrastructure.
+This project is designed with **CQRS**, **Clean Architecture**, making it easy to extend into a real SaaS product without redoing the core infrastructure.
 
 ---
 
@@ -72,7 +72,7 @@ This project is designed with **CQRS**, **Clean Architecture**, and **SQL-first 
 ### Clone & Setup
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/multi-tenant-saas-backend.git
+git clone https://github.com/usuu03/saas-template.git
 cd multi-tenant-saas-backend
 
 # Create .env file (copy from .env.example)
